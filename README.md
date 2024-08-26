@@ -9,7 +9,7 @@
 <h3 align="center">SWE FAST '26 | SAP Build Prospective Consultant | Public Speaker | Selenium | Java | TypeScript</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=M-Ehtesham-Ul-Hassan-Malik&color=blueviolet&style=flat" alt="asad-nawaz92" />
+  <img src="https://komarev.com/ghpvc/?username=M-Ehtesham-Ul-Hassan-Malik&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 
