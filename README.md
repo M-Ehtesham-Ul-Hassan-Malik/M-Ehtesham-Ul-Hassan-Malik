@@ -6,7 +6,7 @@
 <h1 align="center">M Ehtesham Ul Hassan Malik from Karachi, Pakistan</h1>
 
 ###
-<h3 align="center">SWE FAST '26 | SAP Build Prospective Consultant | Public Speaker | Selenium | Java | TypeScript</h3>
+<h3 align="center">SWE FAST '26 | Public Speaker | AI | ML | Java | TypeScript</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=M-Ehtesham-Ul-Hassan-Malik&color=blueviolet&style=flat" alt="Profile views" />
