@@ -1,6 +1,3 @@
-
-###
-
 <br clear="both">
 
 <h1 align="center">M Ehtesham Ul Hassan Malik from Karachi, Pakistan</h1>
@@ -8,20 +5,22 @@
 ###
 <h3 align="center">SWE FAST '26 | Public Speaker | AI | ML | Java | TypeScript</h3>
 
+<!-- 🌟 Legacy Tribute -->
+<p align="center">
+  <em>Al-Khwarizmi wrote the first algorithm. I’m just debugging his legacy.</em><br>
+  <em>Ibn al-Haytham saw the world through lenses; I analyze it through datasets.</em><br>
+  <em>From the House of Wisdom to GitHub commits, the legacy lives on.</em>
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=M-Ehtesham-Ul-Hassan-Malik&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -55,8 +54,6 @@
 
 ###
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/m-ehtesham-ul-hassan-malik/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -78,7 +75,6 @@
   </a>
 </div>
 
-
 <h3 align="left">🔥   My Stats :</h3>
 
 <p align="left">
@@ -86,11 +82,6 @@
   <img margin-left="100" src="https://github-readme-streak-stats.herokuapp.com?user=M-Ehtesham-Ul-Hassan-Malik&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="M-Ehtesham-Ul-Hassan-Malik-streak" />
 </p>
 
-
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ehtesham-Ul-Hassan-Malik&bg_color=020612&color=f5f6fa&line=fbfaf9&point=e39102&area=true&hide_border=true" alt="M-Ehtesham-Ul-Hassan-Malik's github activity graph">
 </a>
-
-
-###
